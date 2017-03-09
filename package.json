@@ -1,0 +1,28 @@
+{
+  "name": "ig-http",
+  "version": "1.0.0",
+  "description": "node custom http server",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example/index.js",
+    "develop": "nodemon example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IegorKozakov/ig-http.git"
+  },
+  "keywords": [
+    "http",
+    "node"
+  ],
+  "author": "Iegor Kozakov kozakov.e@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IegorKozakov/ig-http/issues"
+  },
+  "homepage": "https://github.com/IegorKozakov/ig-http#readme"
+}
